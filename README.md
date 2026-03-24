@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Nandini Dubey
 
-<!--
-**nandinidubey631483-svg/nandinidubey631483-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack MERN Developer | 🤖 Gen AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+* 🔥 Building **scalable web applications using MERN stack**
+* 🤖 Exploring **Generative AI (Gemini, AI Chatbots, Streamlit)**
+* 🧠 Currently learning **DSA for placements  
+
+---
+
+## 🛠️ Tech Stack
+
+💻 **Languages:** C, C++, JavaScript
+🌐 **Frontend:** HTML, CSS, React
+⚙️ **Backend:** Node.js, Express.js
+🗄️ **Database:** MongoDB
+🤖 **AI Tools:** Gemini AI, Python, Streamlit
+🛠️ **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🚀 Projects
+
+* 🤖 **AI Chatbot (Gemini + Streamlit)** – Smart conversational assistant
+* 🛒 **E-Commerce Platform (MERN)** – Full-stack scalable app
+* 📝 **BloggyTechApp** – Backend-focused project
+* 🌐 **Portfolio Website**
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=nandiniYOURUSERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
+* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* 🔗 LeetCode: https://leetcode.com/YOUR_ID
+
+---
+
+⭐ *"Code. Build. Learn. Repeat."*
