@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Hi+I'm+Nandini+Dubey;Full-Stack+MERN+Developer;Gen+AI+Enthusiast)
-# 👋 Hi, I'm Nandini Dubey
+<img width="735" height="215" alt="image" src="https://github.com/user-attachments/assets/1fd6df1f-3caf-40db-9cef-dff77f4a4c00" />
+
 
 💻 Full-Stack MERN Developer | 🤖 Gen AI Enthusiast  
 
