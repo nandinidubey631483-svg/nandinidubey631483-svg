@@ -1,4 +1,4 @@
-<img width="735" height="215" alt="image" src="https://github.com/user-attachments/assets/1fd6df1f-3caf-40db-9cef-dff77f4a4c00" />
+# 👋 Hi, I'm Nandini Dubey
 
 
 💻 Full-Stack MERN Developer | 🤖 Gen AI Enthusiast  
